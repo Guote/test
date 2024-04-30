@@ -1,4 +1,6 @@
-site_name: 'test'
-
+site_name: Documentación
+site_description: An informative description
+plugins:
+  - techdocs-core
 nav:
-  - Home: index.md
+  - Indice: index.md
