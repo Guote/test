@@ -4,6 +4,7 @@ metadata:
   name: test
   annotations:
     backstage.io/techdocs-ref: dir:.
+    sonarqube.org/project-key: dev-api-health
 spec:
   type: service
   owner: user:guest
