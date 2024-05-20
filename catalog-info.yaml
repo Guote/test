@@ -4,7 +4,7 @@ metadata:
   name: test
   annotations:
     backstage.io/techdocs-ref: dir:.
-    sonarqube.org/project-key: dev-api-health
+    sonarqube.org/project-key: dev-acie-sftp
 spec:
   type: service
   owner: user:guest
