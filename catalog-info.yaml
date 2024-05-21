@@ -4,7 +4,7 @@ metadata:
   name: test
   annotations:
     backstage.io/techdocs-ref: dir:.
-    sonarqube.org/project-key: default/dev-acie-sftp
+    sonarqube.org/project-key: incibe-svsm_svsm
 spec:
   type: service
   owner: user:guest
