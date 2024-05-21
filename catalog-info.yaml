@@ -4,7 +4,7 @@ metadata:
   name: test
   annotations:
     backstage.io/techdocs-ref: dir:.
-    sonarqube.org/project-key: incibe-svsm_svsm
+    sonarqube.org/project-key: incibe-svsm_ts-mysql-01
 spec:
   type: service
   owner: user:guest
